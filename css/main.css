@@ -1,0 +1,16 @@
+body {
+	text-align: center;
+}
+
+.form-control {
+	width: 50%;
+	margin: 0 auto;
+}
+
+label {
+	font-size: 30px;
+}
+
+img {
+	width: 30%;
+}
