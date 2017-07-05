@@ -9,8 +9,14 @@ body {
 
 label {
 	font-size: 30px;
+	margin-top: 10%;
 }
 
 img {
 	width: 30%;
+	margin-top: 10px;
+}
+
+#button {
+	margin-top: 20px;
 }
